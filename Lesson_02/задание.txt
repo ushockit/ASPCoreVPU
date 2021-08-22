@@ -1,0 +1,6 @@
+Реализовать ProductController, CategoryController
+Добавить сущности Product, Category (связать между собой)
+
+Для продуктов и категорий реализовать CRUD операции
+
+https://metanit.com/sharp/aspnet5/9.2.php - выпадающий список для категорий
