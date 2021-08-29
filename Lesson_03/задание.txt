@@ -1,0 +1,1 @@
+Прикрутить API к предыдущему заданию (Создаете проекта ASP Core Web Applicaiton Web Api)
